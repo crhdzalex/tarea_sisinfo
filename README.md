@@ -4,3 +4,4 @@
 #Cristóbal Miranda Hernández
 #Alejandro Cruz Hernández
 #Juan Daniel Andrade Duran
+#Ricardo Martinez Lopez
